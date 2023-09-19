@@ -1,5 +1,12 @@
 # testing
 
+Premier ajout.
+Deuxième ajout
+Troisième ajout
+Quatrième ajout
+Cinquième ajout
+Sixième ajout
+
 Learning how to use Git/GitLab via GitBashUI.exe
 Got a lot to understand
 I hope i'm not that bad on it
